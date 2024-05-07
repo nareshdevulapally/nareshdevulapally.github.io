@@ -14,7 +14,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: My PhD Journey # the main title
+title: My PhD Journey1 # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
